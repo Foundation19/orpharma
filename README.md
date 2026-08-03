@@ -162,3 +162,19 @@ different reason.
 ## Contact
 
 `aiscience` correspondence and questions: open an issue.
+
+## License
+
+This repository carries two licences.
+
+| Scope | Licence |
+|---|---|
+| Source code — `baselines/` and any other code | [Apache-2.0](LICENSE) |
+| Data and methodology — `data/`, `audit/`, `pilot/`, and the Markdown documents | [CC BY 4.0](LICENSE-DATA) |
+
+Both permit commercial use. Attribution is required for the data and methodology.
+
+Suggested citation:
+
+> ORPharma, Foundation19 (2026). Rare-disease drug repurposing judgement criteria and
+> labelled samples. https://github.com/Foundation19/orpharma

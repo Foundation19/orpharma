@@ -1,0 +1,37 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Foundation19 / ORPharma
+
+The data files and methodology documents in this repository are licensed
+under the Creative Commons Attribution 4.0 International License.
+
+Covered by this license:
+  - data/            (labelled samples, evaluation sets)
+  - audit/           (reading prompts, trap taxonomy, judgement criteria)
+  - pilot/           (cost and pilot documentation)
+  - README.md, HISTORY.md, LINKS.md
+
+Not covered by this license (see LICENSE, Apache-2.0):
+  - baselines/       (source code)
+  - any other source code in this repository
+
+You are free to:
+  Share  — copy and redistribute the material in any medium or format
+  Adapt  — remix, transform, and build upon the material for any purpose,
+           including commercially
+
+Under the following terms:
+  Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the licensor
+  endorses you or your use.
+
+Suggested citation:
+  ORPharma, Foundation19 (2026). Rare-disease drug repurposing judgement
+  criteria and labelled samples. https://github.com/Foundation19/orpharma
+
+Full license text:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary:
+  https://creativecommons.org/licenses/by/4.0/
